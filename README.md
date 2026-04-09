@@ -2,6 +2,9 @@
 
 A modern animated bottom navigation bar built with HTML, CSS, and JavaScript.
 
+# Live Link 
+-->    https://suman-max10.github.io/Naviagtion/
+
 ## Features
 
 - Animated active indicator
